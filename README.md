@@ -1,2 +1,3 @@
 # open-source-software
-seoultech open source software repository
+## 서울과학기술대학교 오픈소스소프트웨어 수업을 위한 레포지토리입니다.(컴퓨터공학과 김정완)
+## 현재 작성된 README.md 파일은 1주차 과제로 작성되었습니다.
